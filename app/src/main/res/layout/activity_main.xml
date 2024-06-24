@@ -20,6 +20,7 @@
         android:iconifiedByDefault="false"
 
         android:queryHint="Search for a city"
+        android:imeOptions="actionDone"
         android:searchIcon="@drawable/search"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
